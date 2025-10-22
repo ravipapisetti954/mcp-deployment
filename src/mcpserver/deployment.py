@@ -29,6 +29,3 @@ def subtract(a: int, b: int) -> int:
 def divide(a: int, b: int) -> int:
     """divicdivide two numbers"""
     return a / b
-
-if __name__ == "__main__":
-    mcp.run()
