@@ -1,1 +1,1 @@
-# map-deployment
+# mcp-deployment
